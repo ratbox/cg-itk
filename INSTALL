@@ -1,0 +1,4 @@
+$ ./autogen.sh
+$ ./configure [--enable-debug]
+$ make
+# make install
